@@ -1,0 +1,36 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine Simulator with Java/*
+!/Coffee Machine Simulator with Java/task/
+/Coffee Machine Simulator with Java/task/*
+!/Coffee Machine Simulator with Java/task/src
+
+# Project exclude paths
+/Topics/Arrays as parameters/Application as a class/out/
+/Topics/Arrays as parameters/Application as a class/out/production/classes/
+/Topics/Break and continue. Branching/Integer iteration with selective conditions and halt/out/
+/Topics/Break and continue. Branching/Integer iteration with selective conditions and halt/out/production/classes/
+/Topics/Break and continue. Branching/The sequence/out/
+/Topics/Break and continue. Branching/The sequence/out/production/classes/
+/Topics/Data types and their sizes/Size of an integer in bytes/out/
+/Topics/Data types and their sizes/Size of an integer in bytes/out/production/classes/
+/Topics/Declaring methods/Vowel or not/out/
+/Topics/Declaring methods/Vowel or not/out/production/classes/
+/Topics/For-loop/Grades/out/
+/Topics/For-loop/Grades/out/production/classes/
+/Topics/For-loop/The product of numbers from a to b/out/
+/Topics/For-loop/The product of numbers from a to b/out/production/classes/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
